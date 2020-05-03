@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BCS421Homework3</string>
+    <string name="usernameTitle">Username</string>
+    <string name="passwordTitle">Password</string>
+    <string name="loginButton">LOGIN</string>
+    <string name="failToast">Login not successful</string>
+    <string name="Email">Email</string>
+    <string name="AmountDue">Amount Due</string>
+    <string name="showDetailsButton">SHOW DETAILS</string>
+    <string name="payBillButton">PAY BILL</string>
+    <string name="First">First</string>
+    <string name="Last">Last</string>
+    <string name="PayAmount">Pay Amount</string>
+    <string name="PayButton">PAY</string>
+</resources>
